@@ -1,0 +1,1 @@
+## Forcera global store images.
