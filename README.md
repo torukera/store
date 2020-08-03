@@ -1,1 +1,1 @@
-## Forcera Global Store Images ##
+## Store Images ##
